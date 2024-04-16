@@ -1,0 +1,14 @@
+C:\Users\gerar\Documents\2002824GerardoAvila\Proyecto\bin\Debug\net8.0\Proyecto.exe
+C:\Users\gerar\Documents\2002824GerardoAvila\Proyecto\bin\Debug\net8.0\Proyecto.deps.json
+C:\Users\gerar\Documents\2002824GerardoAvila\Proyecto\bin\Debug\net8.0\Proyecto.runtimeconfig.json
+C:\Users\gerar\Documents\2002824GerardoAvila\Proyecto\bin\Debug\net8.0\Proyecto.dll
+C:\Users\gerar\Documents\2002824GerardoAvila\Proyecto\bin\Debug\net8.0\Proyecto.pdb
+C:\Users\gerar\Documents\2002824GerardoAvila\Proyecto\obj\Debug\net8.0\Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerar\Documents\2002824GerardoAvila\Proyecto\obj\Debug\net8.0\Proyecto.AssemblyInfoInputs.cache
+C:\Users\gerar\Documents\2002824GerardoAvila\Proyecto\obj\Debug\net8.0\Proyecto.AssemblyInfo.cs
+C:\Users\gerar\Documents\2002824GerardoAvila\Proyecto\obj\Debug\net8.0\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\gerar\Documents\2002824GerardoAvila\Proyecto\obj\Debug\net8.0\Proyecto.dll
+C:\Users\gerar\Documents\2002824GerardoAvila\Proyecto\obj\Debug\net8.0\refint\Proyecto.dll
+C:\Users\gerar\Documents\2002824GerardoAvila\Proyecto\obj\Debug\net8.0\Proyecto.pdb
+C:\Users\gerar\Documents\2002824GerardoAvila\Proyecto\obj\Debug\net8.0\Proyecto.genruntimeconfig.cache
+C:\Users\gerar\Documents\2002824GerardoAvila\Proyecto\obj\Debug\net8.0\ref\Proyecto.dll
